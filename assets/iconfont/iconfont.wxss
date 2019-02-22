@@ -1,0 +1,23 @@
+@font-face {font-family: "iconfont";
+    src: url('https://at.alicdn.com/t/font_1053628_9uup6vdievh.ttf?t=1550732159578') format('truetype')
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-duihao:before {
+  content: "\e633";
+}
+
+.icon-close:before {
+  content: "\e601";
+}
+
+.icon-down:before {
+  content: "\e611";
+}
